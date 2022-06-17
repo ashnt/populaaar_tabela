@@ -1,3 +1,5 @@
+-- Banco de Dados simples para teste do algoritmo --
+
 CREATE DATABASE db;
 
 CREATE TABLE usuarios(
